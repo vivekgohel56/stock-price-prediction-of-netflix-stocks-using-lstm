@@ -22,4 +22,5 @@ Result:-
 ![fig2](https://github.com/vivekgohel56/stock-price-prediction-of-netflix-stocks-using-lstm/blob/master/graph_of_predicted_data.png "Graph of valid or test data")
 
 Refrence:- https://www.analyticsvidhya.com/blog/2018/10/predicting-stock-price-machine-learningnd-deep-learning-techniques-python/?#
+
 https://github.com/NourozR/Stock-Price-Prediction-LSTM
