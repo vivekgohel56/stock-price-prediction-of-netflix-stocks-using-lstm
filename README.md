@@ -18,5 +18,5 @@ Refrence:- https://www.analyticsvidhya.com/blog/2018/10/predicting-stock-price-m
 https://github.com/NourozR/Stock-Price-Prediction-LSTM
 
 Result:-
-![fig1](https://github.com/vivekgohel56/stock-price-prediction-of-netflix-stocks-using-lstm/blob/master/diff_btwn_diff_avgs.png?raw=true "Diff_averages")
-![fig2](https://github.com/vivekgohel56/stock-price-prediction-of-netflix-stocks-using-lstm/blob/master/graph_of_predicted_data.png?raw=true "Graph of valid or test data")
+![fig1](https://github.com/vivekgohel56/stock-price-prediction-of-netflix-stocks-using-lstm/blob/master/diff_btwn_diff_avgs.png "Diff_averages")
+![fig2](https://github.com/vivekgohel56/stock-price-prediction-of-netflix-stocks-using-lstm/blob/master/graph_of_predicted_data.png "Graph of valid or test data")
