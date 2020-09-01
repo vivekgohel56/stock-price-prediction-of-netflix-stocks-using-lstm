@@ -18,6 +18,7 @@ The predicted closing price for each day will be the average of a set of previou
 Two sequential LSTM layers and in between dropout of rate 0.25 have been stacked together and one dense layer is used to build the RNN model using Keras deep learning library. Since this is a regression task, 'linear' activation has been used in the final layer.
 
 Result:-
+
 ![fig2](https://github.com/vivekgohel56/stock-price-prediction-of-netflix-stocks-using-lstm/blob/master/graph_of_predicted_data.png "Graph of valid or test data")
 
 Refrence:- https://www.analyticsvidhya.com/blog/2018/10/predicting-stock-price-machine-learningnd-deep-learning-techniques-python/?#
