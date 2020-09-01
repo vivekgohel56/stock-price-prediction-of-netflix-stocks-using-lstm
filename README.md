@@ -8,15 +8,17 @@ Technical Analysis, on the other hand, includes reading the charts and using sta
  our focus will be on the technical analysis part.
  
 Stock traders mainly use three indicators for prediction: OHLC average (average of Open, High, Low and Closing Prices), HLC average (average of High, Low, and Closing Prices), and Closing price, In this project, the OHLC average has been used.
+
+![fig1](https://github.com/vivekgohel56/stock-price-prediction-of-netflix-stocks-using-lstm/blob/master/diff_btwn_diff_avgs.png "Diff_averages")
+
 All values have been normalized between 0 and 1.
 
 The predicted closing price for each day will be the average of a set of previously observed values. Instead of using the simple average, we will be using the moving average technique which uses the latest set of values for each prediction. In other words, for each subsequent step, the predicted values are taken into consideration while removing the oldest observed value from the set.
 
 Two sequential LSTM layers and in between dropout of rate 0.25 have been stacked together and one dense layer is used to build the RNN model using Keras deep learning library. Since this is a regression task, 'linear' activation has been used in the final layer.
 
+Result:-
+![fig2](https://github.com/vivekgohel56/stock-price-prediction-of-netflix-stocks-using-lstm/blob/master/graph_of_predicted_data.png "Graph of valid or test data")
+
 Refrence:- https://www.analyticsvidhya.com/blog/2018/10/predicting-stock-price-machine-learningnd-deep-learning-techniques-python/?#
 https://github.com/NourozR/Stock-Price-Prediction-LSTM
-
-Result:-
-![fig1](https://github.com/vivekgohel56/stock-price-prediction-of-netflix-stocks-using-lstm/blob/master/diff_btwn_diff_avgs.png "Diff_averages")
-![fig2](https://github.com/vivekgohel56/stock-price-prediction-of-netflix-stocks-using-lstm/blob/master/graph_of_predicted_data.png "Graph of valid or test data")
