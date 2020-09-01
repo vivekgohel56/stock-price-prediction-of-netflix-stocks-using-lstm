@@ -17,6 +17,6 @@ Two sequential LSTM layers and in between dropout of rate 0.25 have been stacked
 Refrence:- https://www.analyticsvidhya.com/blog/2018/10/predicting-stock-price-machine-learningnd-deep-learning-techniques-python/?#
 https://github.com/NourozR/Stock-Price-Prediction-LSTM
 
-Results:-
+Result:-
 ![fig1](https://github.com/vivekgohel56/stock-price-prediction-of-netflix-stocks-using-lstm/blob/master/diff_btwn_diff_avgs.png?raw=true "Diff_averages")
 ![fig2](https://github.com/vivekgohel56/stock-price-prediction-of-netflix-stocks-using-lstm/blob/master/graph_of_predicted_data.png?raw=true "Graph of valid or test data")
