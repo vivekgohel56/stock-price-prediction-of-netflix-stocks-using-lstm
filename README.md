@@ -19,7 +19,6 @@ https://github.com/NourozR/Stock-Price-Prediction-LSTM
 
 Results:-
 
-Diff_averages
+
 ![fig1](https://github.com/vivekgohel56/stock-price-prediction-of-netflix-stocks-using-lstm/blob/master/diff_btwn_diff_avgs.png?raw=true "Diff_averages")
-Graph of valid or test data
 ![fig2](https://github.com/vivekgohel56/stock-price-prediction-of-netflix-stocks-using-lstm/blob/master/graph_of_predicted_data.png?raw=true "Graph of valid or test data")
